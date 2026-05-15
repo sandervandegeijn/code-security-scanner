@@ -1,0 +1,7 @@
+# Runtime dependencies:
+# This project uses only Python's standard library at runtime.
+#
+# Development/tooling dependencies:
+ruff
+mypy
+vulture

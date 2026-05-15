@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.mypy_cache/
+.ruff_cache/
+*.cover
+.coverage
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+.brief-cache.json
+.security-scan-cache/
+.DS_Store
+.claude/scheduled_tasks.lock
